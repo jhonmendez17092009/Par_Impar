@@ -5,11 +5,13 @@ programa para determinar si es un numero par o inpar
 
 
 ## Input
+
+
 ### Variables de entrada
-mun: 
+num: digite unnumero
 ### processing
 
-
+num % 2 == 0
 
 ### output
 Par o impar
